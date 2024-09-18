@@ -19,3 +19,10 @@ Commit
 ```
 git commit -m '<message>
 ```
+
+Add a remote
+```
+git remote add origin <url from github>
+```
+
+...ssh config is extra
