@@ -24,5 +24,12 @@ Add a remote
 ```
 git remote add origin <url from github>
 ```
+create a branch
+```
+git checkout -b <Branch name>
+```
 
-...ssh config is extra
+checkout a branch
+```
+git checkout <branch name>
+```
