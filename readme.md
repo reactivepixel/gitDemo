@@ -10,4 +10,7 @@ git checkout -b <branchName>
 
 git merge <branchName>
 git checkout <branchName>
+
+git log
+clear
 ```
