@@ -13,4 +13,8 @@ git checkout <branchName>
 
 git log
 clear
+
+git remote add <origin> <url>
+git push origin <branchName>
+git pull origin <branchName>
 ```
