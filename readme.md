@@ -1,4 +1,4 @@
-# Cmds
+# Cmds!
 
 ```
 git init
